@@ -7,12 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="321" Margin="25,24,0,0" VerticalAlignment="Top" Width="375">
-            <Image/>
-        </Border>
         <TextBox x:Name="txtStatus" HorizontalAlignment="Left" Margin="25,367,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="375" Height="39"/>
-        <Button x:Name="btnScan" Content="Button" HorizontalAlignment="Left" Margin="445,99,0,0" VerticalAlignment="Top" Height="61" Width="121"/>
+        <Button x:Name="btnScan" Content="SCAN" HorizontalAlignment="Left" Margin="445,99,0,0" VerticalAlignment="Top" Height="61" Width="121" />
         <TextBox x:Name="txtInfo" HorizontalAlignment="Left" Margin="445,198,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="315" Height="189"/>
+        <Frame x:Name="fFrame" Content="Frame" Margin="25,42,400,88" />
 
     </Grid>
 </Window>

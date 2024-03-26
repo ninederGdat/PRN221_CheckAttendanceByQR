@@ -18,3 +18,34 @@ D:\Materials\PRN221\Code\GroupProject\ScanQR\ScanQR.CheckAttendance\obj\Debug\ne
 D:\Materials\PRN221\Code\GroupProject\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.pdb
 D:\Materials\PRN221\Code\GroupProject\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.genruntimeconfig.cache
 D:\Materials\PRN221\Code\GroupProject\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ref\ScanQR.CheckAttendance.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.csproj.AssemblyReference.cache
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\App.g.cs
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance_MarkupCompile.cache
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance_MarkupCompile.lref
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\refint\ScanQR.CheckAttendance.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.pdb
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\ScanQR.CheckAttendance.exe
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\ScanQR.CheckAttendance.deps.json
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\ScanQR.CheckAttendance.runtimeconfig.json
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\ScanQR.CheckAttendance.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\ScanQR.CheckAttendance.pdb
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\AForge.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\AForge.Imaging.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\AForge.Math.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.g.resources
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.AssemblyInfoInputs.cache
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.AssemblyInfo.cs
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.csproj.CoreCompileInputs.cache
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.sourcelink.json
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.csproj.CopyComplete
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ScanQR.CheckAttendance.genruntimeconfig.cache
+C:\Working Space\CN7\PRN221_CheckAttendanceByQR\ScanQR\ScanQR.CheckAttendance\obj\Debug\net6.0-windows\ref\ScanQR.CheckAttendance.dll
